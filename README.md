@@ -1,1 +1,1 @@
-#{12ae7de3c54ed97b7aa32072d94ae72c7ce41f0a}*Dr $YTchannel
+$assett: #{12ae7de3c54ed97b7aa32072d94ae72c7ce41f0a}*Dr $YTchannel
